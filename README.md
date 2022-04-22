@@ -5,8 +5,8 @@ Run it locally
 1. Install mongodb
 2. Create a cloudinary account to get an API key and secret code
 
-git clone https://github.com/himanshup/yelpcamp.git
-cd yelpcamp
+git clone https://github.com/Shamikh05/SnugCamps.git
+cd SnugCamps
 npm install
 
 
